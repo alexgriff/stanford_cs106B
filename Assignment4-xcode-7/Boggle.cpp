@@ -1,10 +1,7 @@
 /*
  * File: Boggle.cpp
  * ----------------
- * Name: [TODO: enter name here]
- * Section: [TODO: enter section leader here]
- * This file is the main starter file for Assignment #4, Boggle.
- * [TODO: extend the documentation]
+* This file contains work I have done
  */
  
 #include <iostream>

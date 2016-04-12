@@ -7,6 +7,7 @@
  *   1. Draw the boggle board
  *   2. Manage the word lists
  *   3. Update the scoreboard
+ * This file contains work I have done
  */
 
 #ifndef _gboggle_h
