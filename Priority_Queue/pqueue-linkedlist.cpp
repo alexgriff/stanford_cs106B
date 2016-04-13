@@ -3,7 +3,7 @@
  *
  * Implementation file for the LinkedListPriorityQueue
  * class.
- * This is my own work.
+ * This file is my own work.
  */
 
 #include "pqueue-linkedlist.h"

@@ -3,7 +3,7 @@
  *
  * Exports functions that use Dijkstra's algorithm, A* search, and Kruskal's
  * algorithm as specified in the assignment handout.
- * This is my own work.
+ * This file is my own work.
  */
 
 #ifndef Trailblazer_Included

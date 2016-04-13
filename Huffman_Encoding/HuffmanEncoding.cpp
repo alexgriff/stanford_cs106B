@@ -4,7 +4,7 @@
  * Implementation of the functions from HuffmanEncoding.h.
  * Most (if not all) of the code that you write for this
  * assignment will go into this file.
- * This is my own work.
+ * This file is my own work.
  */
 
 #include "HuffmanEncoding.h"

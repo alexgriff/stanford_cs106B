@@ -1,7 +1,7 @@
 /*
  * File: Boggle.cpp
  * ----------------
- * This is my own work.
+ * This file is my own work.
  */
  
 #include <iostream>

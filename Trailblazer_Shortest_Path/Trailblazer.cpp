@@ -3,7 +3,7 @@
  *
  * Implementation of the graph algorithms that comprise the Trailblazer
  * assignment.
- * This is my own work.
+ * This file is my own work.
  */
 
 #include "Trailblazer.h"

@@ -3,7 +3,7 @@
  *
  * A priority queue class backed by an unsorted, doubly-linked
  * list.
- * This is my own work.
+ * This file is my own work.
  */
 #ifndef PQueue_DoublyLinkedList_Included
 #define PQueue_DoublyLinkedList_Included

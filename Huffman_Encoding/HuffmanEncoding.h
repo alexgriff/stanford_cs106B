@@ -5,7 +5,7 @@
  * Huffman encoding system.  Your task in this assignment
  * is to implement all of the functions defined in this
  * header file, plus any supporting helper functions.
- * This is my own work.
+ * This file is my own work.
  */
 
 #ifndef HuffmanEncoding_Included
