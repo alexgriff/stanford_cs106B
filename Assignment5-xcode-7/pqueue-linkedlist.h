@@ -3,6 +3,7 @@
  *
  * A priority queue class backed by a sorted, singly-linked
  * list.
+ * This is my own work.
  */
 #ifndef PQueue_LinkedList_Included
 #define PQueue_LinkedList_Included

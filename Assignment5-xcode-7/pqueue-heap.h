@@ -3,6 +3,7 @@
  *
  * A priority queue class backed by a binary
  * heap.
+ * This is my own work.
  */
 #ifndef PQueue_Heap_Included
 #define PQueue_Heap_Included

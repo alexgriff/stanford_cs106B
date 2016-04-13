@@ -3,6 +3,7 @@
  *
  * Implementation file for the HeapPriorityQueue
  * class.
+ * This is my own work.
  */
  
 #include "pqueue-heap.h"

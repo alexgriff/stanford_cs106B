@@ -3,6 +3,7 @@
  *
  * A priority queue class backed by an unsorted
  * vector.
+ * This is my own work.
  */
 #ifndef PQueue_Vector_Included
 #define PQueue_Vector_Included

@@ -3,7 +3,7 @@
  *
  * Implementation file for the VectorPriorityQueue
  * class.
-* This file contains work I have done
+ * This is my own work.
  */
  
 #include "pqueue-vector.h"

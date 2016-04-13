@@ -3,6 +3,7 @@
  *
  * Implementation of the graph algorithms that comprise the Trailblazer
  * assignment.
+ * This is my own work.
  */
 
 #include "Trailblazer.h"
@@ -38,7 +39,6 @@ void unite(int p, int q, Vector<int>& id, Vector<int>& size);
 
 
 /*
- * This file contains work I have done
  * --------------------------------------------------------------------------
  *                          SHORTEST PATH                                 
  * --------------------------------------------------------------------------
